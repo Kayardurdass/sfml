@@ -31,7 +31,7 @@ int main()
 		//Update
 
 		//Render
-		window.clear();  //clear old frame
+		window.clear(sf::Color::Blue);  //clear old frame
 
 
 		window.display();  //draw the new frame
