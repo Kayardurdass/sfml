@@ -11,6 +11,7 @@ int main()
 	{
 		//Update
 		game.Update();
+
 		//Render
 		game.Render();
 	}
